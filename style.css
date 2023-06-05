@@ -1,0 +1,12 @@
+.gridtitulo{
+    text-align: center;
+    color: rgb(226, 18, 63);
+    font-size: 30px;
+}
+.gridimagens{
+    width: 250px;;
+}
+.todasimagens{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
